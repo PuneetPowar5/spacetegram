@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&family=Nunito:wght@1000&display=swap");
+
+.Media {
+  background: url("space.jpeg");
+  background-size: 100% 100%;
+  height: auto;
+  width: 100%;
+}
+
+.image {
+  display: block;
+  max-width: 45%;
+  object-fit: contain;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 30px;
+}
+
+.photographer {
+  display: flex;
+  font-size: 5em;
+  font-weight: 400;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  font-weight: 700;
+  justify-content: center;
+  text-align: center;
+  color: whitesmoke;
+}
+
+.imageTitle {
+  display: flex;
+  font-size: 5em;
+  font-weight: 400;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  font-weight: 700;
+  justify-content: center;
+  text-align: center;
+  color: whitesmoke;
+}
+
+.explanation {
+  display: flex;
+  font-size: 1.3em;
+  font-weight: 400;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  font-weight: 300;
+  justify-content: center;
+  text-align: left;
+  color: whitesmoke;
+}

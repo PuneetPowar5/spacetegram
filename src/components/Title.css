@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&family=Nunito:wght@1000&display=swap");
+
+.TitlePage {
+  height: 10vh;
+  width: 100%;
+  background-color: black;
+  position: relative;
+}
+
+.Name {
+  display: flex;
+  font-size: 5em;
+  font-weight: 700;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  justify-content: center;
+  text-align: center;
+  color: whitesmoke;
+}
+
+.link {
+  text-decoration: none;
+}

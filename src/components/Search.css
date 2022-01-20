@@ -1,0 +1,12 @@
+.Search {
+  position: relative;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+  background-color: black;
+}
+
+.select {
+  background-color: white;
+}
